@@ -1,1 +1,16 @@
-
+<root>
+    <fields>
+        <item1>Bug ID</item1>
+        <item2>Summary</item2>
+        <item3>Incident description</item3>
+        <item4>Steps</item4>
+        <item5>Actual result</item5>
+        <item6>Expected result</item6>
+        <item7>Environment</item7>
+        <item8>Severity</item8>
+        <item9>Priority</item9>
+        <item10>Reported by</item10>
+        <item11>Reported on</item11>
+        <item12>Status</item12>
+    </fields>
+</root>
