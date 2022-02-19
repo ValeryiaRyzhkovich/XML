@@ -1,8 +1,7 @@
 <root>
-<favorite_movie>Knocking on heaven's door</favorite_movie>
-<favorite_show>The witcher</favorite_show>
-<favorite_food>Italian</favorite_food>
-<favorite_season>Summer</favorite_season>
-<country>Spain</country>
+   <favorite_movie>Knocking on heaven's door</favorite_movie>
+   <favorite_show>The witcher</favorite_show>
+   <favorite_food>Italian</favorite_food>
+   <favorite_season>Summer</favorite_season>
+   <country>Spain</country>
 </root>
-
